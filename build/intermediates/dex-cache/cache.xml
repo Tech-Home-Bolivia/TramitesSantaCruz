@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/victor/.android/build-cache/76cacd11f913d03e8a4743e1016613060d6f6d00/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/home/victor/AndroidStudioProjects/TramitesSantaCruz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_54ec7c78c6e05adff7bc8071b7bc0a40e8a97d95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/AndroidStudioProjects/TramitesSantaCruz/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/victor/AndroidStudioProjects/TramitesSantaCruz/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fb3ac04b240e075005d651a67852fbad2e32e9a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/.android/build-cache/f2ad78c6b4bf1b0ab55db7af54f9264132b819db/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/home/victor/AndroidStudioProjects/TramitesSantaCruz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d9b9b227f17db45de5eed66a5dede0d706207e48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/AndroidStudioProjects/TramitesSantaCruz/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b5997468297d0d01b12a2dea5506a21cd2ee1520">
+        <dex dex="/home/victor/AndroidStudioProjects/TramitesSantaCruz/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_da93352a6df6145af76977157e55fc649b6b5bdd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/.android/build-cache/5dd8066da8f82a445f4d0417f8d94a3516c3608b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/home/victor/AndroidStudioProjects/TramitesSantaCruz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_298fa92d4460b7d8bc5eea611b11e099a499834e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/.android/build-cache/20737e0a4b29ff7d973b4813ca1706e9372d6290/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/home/victor/AndroidStudioProjects/TramitesSantaCruz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c2bf819fcb1e6b2d4986ff4c1e8fa8ec4f644766/classes.dex" />
+    </item>
+
+</items>
